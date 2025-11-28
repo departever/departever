@@ -9,7 +9,6 @@
 - 💼 Looking for opportunities to build beautiful and functional UIs
 - 🎯 Passionate about pixel-perfect design and seamless UX
 - 💬 Ask me about **JavaScript**, **CSS**, **frontend frameworks**
-- 📫 How to reach me: **609336902@qq.com**
 
 ---
 
